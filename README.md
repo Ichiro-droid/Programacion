@@ -1,4 +1,4 @@
-# Programacion 1 LABORATORIO de Facultad de Ingeniería (UDELAR) 
+# Programacion 1 - Facultad de Ingeniería (UDELAR) 
 
 Repositorio para laboratorio de programación de la facultad de ingenieria 
 
