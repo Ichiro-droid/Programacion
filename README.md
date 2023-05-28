@@ -31,6 +31,7 @@ TEMARIO
     b. Ordenación por inserción y selección
 
 A2) CRONOGRAMA TENTATIVO
+
     Semana 1 Introducción, componentes básicos y tipos elementales
     Semana 2 Introducción, componentes básicos y tipos elementales
     Semana 3 Secuencia y selección
